@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:818CF8&height=220&section=header&text=Naman%20Ahuja&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Product%20Engineer%20%7C%20AI%20Engineer%20%7C%20Building%20at%20Velocity&descSize=16&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:818CF8&height=220&section=header&text=Naman%20Ahuja&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Product%20Engineer%20%7C%20AI%20Engineer&descSize=16&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://namanahuja.xyz">
@@ -40,8 +40,6 @@ const naman = {
         devOps: ["Docker", "Vercel", "AWS", "GCP", "DigitalOcean"],
         tools: ["Git", "GitHub Actions", "VS Code"]
     },
-    
-    philosophy: "Merge AI with precision-engineered design at velocity."
 };
 ```
 
@@ -224,38 +222,7 @@ const naman = {
 
 <br/>
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
-
-<!-- GITHUB STATS -->
-## `📊 GitHub Analytics`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=namandidthis&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=818CF8&text_color=c9d1d9&ring_color=6366F1&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=namandidthis&hide_border=true&background=0d1117&stroke=6366F1&ring=6366F1&fire=818CF8&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6366F1&sideLabels=818CF8&dates=8b949e" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namandidthis&layout=compact&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-<br/>
-
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=namandidthis&bg_color=0d1117&color=6366F1&line=818CF8&point=c9d1d9&area_color=6366F1&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
-</div>
-
-<br/>
 
 <!-- CONNECT -->
 ## `🤝 Let's Build Something Together`
